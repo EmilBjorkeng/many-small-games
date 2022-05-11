@@ -1,0 +1,8 @@
+Best time (Easy): 0
+Best time (normal): 0
+Best time (hard): 0
+Custom Width: 16
+Custom Height: 16
+Custom Mine Amout: 254
+Right Click for flag: 0
+Click on numbers to reveal: 0

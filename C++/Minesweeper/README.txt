@@ -1,0 +1,1 @@
+To edit the setting for the custom mode you have to edit the data.txt file
