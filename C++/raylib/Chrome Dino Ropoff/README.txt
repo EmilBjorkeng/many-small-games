@@ -1,0 +1,1 @@
+I made it easy to use your own sprite insed of the default one. Just go into the resources and you'll see the sprite image
